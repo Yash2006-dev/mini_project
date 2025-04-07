@@ -1,0 +1,71 @@
+.b1:hover{
+    color: yellow;
+}
+.b2:hover{
+    color: black;
+    background-color: yellow;
+}
+.sec2{
+    min-height: 90vh;
+}
+.sec3{
+    height: 20vh;
+}
+.sec4{
+    height: fit-content;
+}
+.sec5{
+    height: 40vh;
+}
+.sec6{
+   min-height:80vh;
+}
+.sec7{
+   min-height: 100vh;
+    background-color: #FFD7EF;
+}
+.sec8{
+    height:fit-content;
+    background-color: white;
+}
+.b3{
+    height: 30vh;
+}
+.sec9{
+    background-color: #F6F5F5;
+    height: fit-content;
+}
+.b4{
+    background-color: #FFD7EF;
+    
+}
+
+.sec10{
+    height:fit-content;
+    background-color: #FFFFFF;
+}
+
+.sec11{
+    height: 20vh;
+    background-color: #FFBF23;
+}
+.sec12{
+    height: fit-content;
+    background-color: #FFBF23;
+}
+.b5:hover{
+    background-color: none;
+    color: black;
+    border: 1px solid black;
+}
+.sec13{
+    height: fit-content;
+    background-color: #FFBF23;
+}
+.sec14{
+    height: 5vh;
+    background-color: black;
+}
+.nav-link {
+    text-align: center;
+}
